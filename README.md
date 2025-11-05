@@ -214,6 +214,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
 * [bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+* [Database Lab Engine](https://github.com/postgres-ai/database-lab-engine) - Enables database branching and thin cloning for any Postgres database using Copy-on-Write technology. Creates full-scale database clones in seconds for testing in CI/CD pipelines, reducing infrastructure costs and enabling rapid testing on production-like data.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others.
 * [GatewayD](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
