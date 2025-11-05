@@ -198,6 +198,7 @@
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [PEV2](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
+* [pg_index_pilot](https://github.com/postgres-ai/pg_index_pilot) - Autonomous index lifecycle management for PostgreSQL. Automates detection and rebuilding of bloated indexes using REINDEX CONCURRENTLY, eliminating manual intervention while maintaining production availability.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
 for `EXPLAIN`, that also provides performance tips (Commercial Software).
