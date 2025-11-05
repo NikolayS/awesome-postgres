@@ -146,6 +146,7 @@
 * [dexter](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 * [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 * [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+* [postgres_ai](https://github.com/postgres-ai/postgres_ai) - Expert-level PostgreSQL monitoring tool for DBAs and SREs. Implements the Four Golden Signals approach (latency, traffic, errors, saturation) with five specialized dashboards for troubleshooting, query analysis, wait events, and disaster recovery monitoring.
 * [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
 
 ### Extensions
